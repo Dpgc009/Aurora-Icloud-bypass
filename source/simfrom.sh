@@ -16,4 +16,4 @@ fi
 echo "Installing required libs..."
 sudo pip3 install paramiko
 echo "Launching shell"
-python3 ./source/scripts/sim.py restore
+python3 ./source/scripts/sim.py dump
